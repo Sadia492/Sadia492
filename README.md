@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/cbvpJGG/github-Banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/cbvpJGG/github-Banner.png"  />
 </div>
 
 ###
@@ -66,7 +66,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sadia492&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadia492&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sadia492&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
