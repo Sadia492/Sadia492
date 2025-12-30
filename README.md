@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Frontend Developer</h2>
+<h2 align="center">Full-Stack Developer</h2>
 
 ###
 
