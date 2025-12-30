@@ -71,17 +71,16 @@
     gap: 10px;
     max-width: 650px;
   ">
- <!-- For stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sadia492&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-style="flex: 1 1 48%; min-width: 300px; height: 200px; object-fit: cover;" alt="Stats Graph" />
-
-<!-- For top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadia492&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-style="flex: 1 1 48%; min-width: 300px; height: 200px; object-fit: cover;" alt="Languages Graph" />
-
-<!-- For streak stats -->
-<img src="https://streak-stats.demolab.com?user=Sadia492&theme=dracula&hide_border=false" 
-style="flex: 1 1 100%; min-width: 300px; height: 200px; object-fit: cover;" alt="GitHub Streak">
+    <!-- First two stats in one row -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Sadia492&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+    style="flex: 1 1 48%; min-width: 300px; height: 200px; object-fit: cover;" alt="Stats Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadia492&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
+    style="flex: 1 1 48%; min-width: 300px; height: 200px; object-fit: cover;" alt="Languages Graph" />
+    <!-- Third stat on the second line -->
+    <a href="https://git.io/streak-stats">
+      <img src="https://nirzak-streak-stats.vercel.app?user=Sadia492" 
+      style="flex: 1 1 100%; min-width: 300px; height: 200px; object-fit: cover;" alt="GitHub Streak">
+    </a>
   </div>
 </div>
 
